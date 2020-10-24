@@ -1,9 +1,7 @@
 Data\_analyst
 ================
 
-``` r
-knitr::opts_chunk$set(fig.path='Figs1/')
-```
+
 
 ``` r
 dataAnalyst <- read.csv("~/Desktop/DataAnalyst.csv", comment.char="#")
